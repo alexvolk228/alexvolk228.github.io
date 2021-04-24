@@ -1,6 +1,34 @@
 {
-    "title": "UML Class",
+    "title": "Лабораторная работа 5",
     "items": [
-        
+        {
+            "type": "text",
+            "data": [
+                {
+                    "text": "Структура объекта системы",
+                    "class": "md-title"
+                }
+            ]
+        },
+        {
+            "type": "text",
+            "data": [
+                {
+                    "text": "Описываемый объект: База данных CRM"
+                }
+            ]
+        },
+        {
+            "type": "text",
+            "data": [
+                {
+                    "text": "Диаграмма UML Class",
+                }
+            ]
+        },
+        {
+            "type": "image",
+            "data":"https://github.com/alexvolk228/alexvolk228.github.io/blob/master/img/uml-class.png?raw=true" 
+        }
     ]
 }
